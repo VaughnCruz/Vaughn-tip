@@ -1,3 +1,4 @@
+<b>Name: </b>Vaughn Ivan Cruz
 <b>Year Level: </b>3rd Year 
 <b>Interest: </b>Editing 
 <b>Email Address: </b>qviacruz@tip.edu.ph
